@@ -1,0 +1,2 @@
+# GeniusStakePool
+Stake Pool Configuration

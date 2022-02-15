@@ -1,6 +1,6 @@
 {
     "name": "Genius Yield X",
-    "description": "Genius Yield stake pool X",
+    "description": "Genius Yield stake pool X: GENS rewards stop accumulating after 64 million ADA",
     "ticker": "GENSX",
     "homepage": "https://www.geniusyield.co",
     "extended": "https://raw.githubusercontent.com/geniusyield/GeniusStakePool/main/adapool.json"

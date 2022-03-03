@@ -1,7 +1,0 @@
-{
-    "name": "Genius Yield 4",
-    "description": "Genius Yield stake pool 4",
-    "ticker": "GENS4",
-    "homepage": "https://www.geniusyield.co",
-    "extended": "https://raw.githubusercontent.com/geniusyield/GeniusStakePool/main/adapool.json"
-}

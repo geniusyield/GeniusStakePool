@@ -1,7 +1,7 @@
 {
-    "name": "Genius Yield 3",
-    "description": "Genius Yield stake pool 3: Delegations made after the stake pool is saturated will not earn GENS rewards",
+    "name": "Genius X 3",
+    "description": "Genius X stake pool 3: Delegations made after the stake pool is saturated will not earn $GENSX rewards",
     "ticker": "GENS3",
-    "homepage": "https://www.geniusyield.co",
+    "homepage": "https://www.genius-x.co",
     "extended": "https://raw.githubusercontent.com/geniusyield/GeniusStakePool/main/adapool.json"
 }

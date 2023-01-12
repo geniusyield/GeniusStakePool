@@ -1,6 +1,6 @@
 {
     "name": "Genius X 1",
-    "description": "Multi-token ISPO Genius X  pool 1: Delegations made after the stake pool is saturated will not earn $SMART, $LTY, $HYN, $REACH, and $DG rewards",
+    "description": "Genius X staking pool. Stable and efficient ADA staking.",
     "ticker": "GENS1",
     "homepage": "https://www.genius-x.co",
     "extended": "https://raw.githubusercontent.com/geniusyield/GeniusStakePool/main/adapool.json"
